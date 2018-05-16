@@ -1,4 +1,4 @@
-//Dit is de nieuwe versie
+//Dit is de nieuwenieuwe versie
 
 public class Conversion {
     /**Conversie van numerieke String naar int*/

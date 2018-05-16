@@ -1,3 +1,5 @@
+//Dit is de nieuwe versie
+
 public class Conversion {
     /**Conversie van numerieke String naar int*/
     public static int toInt(String s) {

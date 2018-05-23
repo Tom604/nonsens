@@ -1,5 +1,7 @@
 //Dit is de nieuwenieuwenieuwe versie
 
+//Gaat 'ie dit in Sourcetree meteen oppakken?
+
 public class Conversion {
     /**Conversie van numerieke String naar int*/
     public static int toInt(String s) {
